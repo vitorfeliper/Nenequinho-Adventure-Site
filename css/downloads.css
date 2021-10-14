@@ -1,0 +1,91 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.BorderMenu{
+    width: 100%;
+    background-color: aquamarine;
+    height: 120px;
+}
+
+.Header-1{
+    color:darkgoldenrod;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: "Ice kingdom", Arial, "Times New Roman";
+    padding: 1%;
+    margin-left: 26%;
+}
+
+ul {
+    padding: 0px!important;
+}
+.DownloadArea{
+    margin: 0 auto;
+    width: 1100px;
+    position:relative;
+}
+.DownloadBottonPC{
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.DownloadBottonPC img{
+    position: absolute;
+    left: 5px;
+    margin-top: -80px;
+    width: 120px;
+    height: 100px;
+}
+.DownloadBottonPC ul li{
+    display: inline-block;
+}
+.Logo0 ul li{
+    display: inline-block;
+}
+.Logo0 img{
+    position: absolute;
+    left: 800px;
+    margin-top: -96px;
+    width: 120px;
+    height: 100px;
+}
+
+.Text0{
+    color:darkgoldenrod;
+    text-decoration: none;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: "Ice kingdom", Arial, "Times New Roman";
+    position: absolute;
+    left: 750px;
+    margin-top: 20px;
+}
+.Text{
+    color:darkgoldenrod;
+    text-decoration:none;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: "Ice kingdom", Arial, "Times New Roman";
+    position: absolute;
+    left: 1px;
+    margin-top: 40px;
+}
+
+.Botton0 ul li{
+    display: inline-block;
+    padding: 100px;
+    margin-left: 500px;
+    
+}
+
+.Botton0{
+    color:chartreuse;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: "Ice kingdom", Arial, "Times New Roman";
+}

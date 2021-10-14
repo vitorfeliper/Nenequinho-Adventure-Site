@@ -1,0 +1,36 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.MenuOn{
+    width: 100%;
+    background-color:blue;
+    height: 120px;
+}
+
+.Menu{
+    color:firebrick;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: "Ice kingdom", Arial, "Times New Roman";
+    padding: 1%;
+    margin-left: 41%;
+}
+
+.Botton ul li{
+    display: inline-block;
+    padding: 40px;
+    margin-left: -50px;
+    float: right;
+}
+
+.Botton{
+    color:chartreuse;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: "Ice kingdom", Arial, "Times New Roman";
+}
